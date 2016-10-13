@@ -9,6 +9,10 @@ Hat/Perc module
 
 Snare/Perc module
 
+Basic Synth
+
+
 Sequencers
 ########
 Master Clock Module
+
