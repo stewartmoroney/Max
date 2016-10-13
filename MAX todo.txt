@@ -1,0 +1,14 @@
+MAX todo 
+
+Projects/Modules
+Sound generation
+#############
+Kick/Perc  module
+
+Hat/Perc module
+
+Snare/Perc module
+
+Sequencers
+########
+Master Clock Module
